@@ -1,0 +1,3 @@
+interface WalkingAnimal {
+    void walk();
+}
