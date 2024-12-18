@@ -6,10 +6,10 @@ A continuación se presentan dos capturas de pantalla que demuestran el comporta
 
 En esta captura se muestra la ejecución de un perro (`Dog`) realizando su sonido y utilizando el método `walk()` sin problemas:
 
-![Dog walking](./images/evidence1.png)
+![Dog walking](./evidence1.png)
 
 ## 2. Animal que No Camina (Fish)
 
 En esta captura se muestra un pez (`Fish`) haciendo su sonido, pero sin intentar caminar, evitando así excepciones y cumpliendo con el LSP:
 
-![Fish not walking](./images/evidence2.png)
+![Fish not walking](./evidence2.png)
